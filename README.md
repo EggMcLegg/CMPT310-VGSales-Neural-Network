@@ -1,7 +1,7 @@
 # CMPT310-VGSales-Neural-Network
 A project for CMPT310.
 
-The data is from: https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings. 
+vgsales.csv is from: https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings. 
 
 In this project, the model attempts to predict the sales of a game based on its ratings by both users and critics on Metacritic. While Metacritic scores are often flawed, there may be a correlation between a game's perceived quality and how much it sells.
 
